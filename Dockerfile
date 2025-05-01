@@ -2,8 +2,6 @@ FROM n8nio/n8n
 
 # Variables de entorno opcionales
 ENV N8N_BASIC_AUTH_ACTIVE=true
-ENV N8N_BASIC_AUTH_USER=danjod70@gmail.com
-ENV N8N_BASIC_AUTH_PASSWORD=soyelmejor21.XD
 
 # Puerto
 EXPOSE 5678
